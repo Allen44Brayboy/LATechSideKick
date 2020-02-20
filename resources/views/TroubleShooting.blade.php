@@ -224,7 +224,31 @@ Released   : 20140322
 									<li align ='left'> On the test set dial 7 9 8 9 9 9 9.</li><br>
 								</P>
 
-								<li align ='left'><strong>More coming soon!</strong></li><br>
+								<p align ='left'><strong>Tips from the Tech! </strong>
+
+								<li align ='left'><strong>Contributed by Joey C.</strong>When trouble shooting phone ALWAYS id number to make sure you are on the right pair.
+									I always check at the protector first to see where the trouble is coming from. 
+									Disconnect drop from the protector an check.
+									When using a test set I will make a call out then a call in this is done with the drop removed from the protector.
+									If the call goes through with no static when picked up  and it is a clean ring then the trouble is either in the protector or going inside. 
+									If you find a problem once this is done.
+									Go to the pedestal find the cable pair and drop  remove the drop off the cable pair and go through the same steps you did at the protector. 
+									When checking in the pedestal  after you locate the cable pair and drop disconnect drop
+									and check cable pair  if cable pair is clear and you can make an out going and incoming call with no problem the problem is on the drop. 
+									At this point you can change the pair in the drop connect back to cable pair and check at protector. 
+									If all good tie back to protector and check if all is clear.
+									 There are 1 ,2,4,6,&12 pair drops 
+									if you find a good pair then you have cleared the issue if you can’t find a good pair then put the a temp drop to keep the customer going till the drop can be replaced. 
+									Keep in mind when running a temp drop try to keep it off the ground and try to run up poles and off roads if possible. 
+									Once you check the cable pair in the pedistal and find the trouble is towards the office, 
+									the next step to to go to the office the dial tone comes from. Find the cable pair on the frame and connect to it with your butt set.
+									Pull the black module out. This gets rid of the field side. If that clears the trouble then you need to replace the cable pair. 
+									Find a cable pair that is vacant and move your jumper to it run back out to the ped and check your dial tone. 
+									If good connect to the drop and check inside to see if the issue was corrected. 
+									If you pull the module in the office and the trouble is still there you need to replace the line card
+									If you check your dial tone in the protector and you find the trouble is going inside. Make sure there is nothing wrong
+									in the protector such as corrosion or if the carbon is good. If the protector is good the next step would be to find 
+									the splice point and find the cable with the dial tone and connect one outlet at a time to find what outlet is causing the problem</li><br>
 
 
 							</div>

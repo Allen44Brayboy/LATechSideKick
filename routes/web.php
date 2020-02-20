@@ -44,3 +44,6 @@ Route::get('/Tutorials', function () {
 Route::get('/US_Counter', function () {
     return view('US_Counter');
 });
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
